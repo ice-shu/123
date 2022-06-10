@@ -1,0 +1,17 @@
+{
+  "name": "wyqxg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^1.5.1"
+  },
+  "devDependencies": {
+    "less": "^3.13.1"
+  }
+}
